@@ -4,7 +4,7 @@ Description: aws-data-pipeline
 
 Globals:
   Function:
-    Runtime: java8
+    Runtime: java11
     MemorySize: 512
     Timeout: 10
 
