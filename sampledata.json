@@ -1,0 +1,37 @@
+[
+  {
+    "sku": "HK123",
+    "name": "Hammer",
+    "quantity": 34,
+    "brand": "Timberland",
+    "clearance": 0
+  },
+  {
+    "sku": "NM898",
+    "name": "Boots",
+    "quantity": 121,
+    "brand": "Wicked",
+    "clearance": 1
+  },
+  {
+    "sku": "LM223",
+    "name": "Lights",
+    "quantity": 1000,
+    "brand": "Philips",
+    "clearance": 1
+  },
+  {
+    "sku": "YM221",
+    "name": "Threadmill",
+    "quantity": 2,
+    "brand": "True",
+    "clearance": 0
+  },
+  {
+    "sku": "RT1212",
+    "name": "Radi0",
+    "quantity": 1,
+    "brand": "GE",
+    "clearance": 0
+  }
+]
